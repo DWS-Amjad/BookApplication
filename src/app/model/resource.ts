@@ -8,12 +8,4 @@ export class Resource {
         this._id = value;
     }
 
-    /*public getId() {
-        return this._id;
-    }
-
-    public setId(value: number) {
-        this._id = value;
-    }*/
-
 }
